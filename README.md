@@ -1,2 +1,2 @@
 # ai-for-bharat-yojana-sathi
-AI chatbot for goverment schemes
+YojanaSathi is an AI-powered guidance platform that helps citizens discover and understand government welfare schemes through personalized, easy-to-follow assistance. Instead of only listing schemes, it interprets eligibility rules and provides clear next steps using natural language interaction. The solution is designed for inclusivity, scalability, and real-world public impact.
